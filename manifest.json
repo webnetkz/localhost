@@ -1,8 +1,8 @@
 {
-  "short_name": "nPWAN",
-  "name": "new Progressive Application",
+  "short_name": "newPWA",
+  "name": "new Progressive Web Application",
   "start_url": "/",
-  "background_color": "rgb(191, 214, 251)",
+  "background_color": "rgb(219, 250, 222)",
   "theme_color": "rgb(88, 139, 221)",
   "display": "fullscreen",
   "prefer_related_applications": false,

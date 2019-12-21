@@ -1,4 +1,4 @@
 <?php
 
-$title = 'New Progressive Application';
+$title = 'New Progressive Web Application';
 require_once 'public/tamplates/tamplate.php';

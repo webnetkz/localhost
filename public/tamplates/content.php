@@ -1,4 +1,4 @@
-<h1>new Progressive Application</h1>
+<h1>new Progressive Web Application</h1>
 <br>
 <br>
 <br>
