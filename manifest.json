@@ -1,9 +1,9 @@
 {
-  "short_name": "newProduct",
-  "name": "newProduct",
+  "short_name": "nPWAN",
+  "name": "new Progressive Application",
   "start_url": "/",
-  "background_color": "rgb(255, 255, 255)",
-  "theme_color": "rgb(35, 235, 35)",
+  "background_color": "rgb(191, 214, 251)",
+  "theme_color": "rgb(88, 139, 221)",
   "display": "fullscreen",
   "prefer_related_applications": false,
   "icons": [{

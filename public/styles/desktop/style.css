@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 html, body {
-    background-color: bisque;
+    background-color: rgb(191, 214, 251);
     font-family: 'Oswald', sans-serif;
+    text-align: center;
 }
