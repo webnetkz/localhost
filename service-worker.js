@@ -6,7 +6,6 @@ self.addEventListener('install', function(e) {
        '/',
        'service-worker.js',
        'manifest.json',
-       'public/fonts/Oswald-VariableFont_wght.ttf',
        'public/images/mini_logo.png',
        'public/images/logo.png',
        'public/styles/desktop/style.css',
